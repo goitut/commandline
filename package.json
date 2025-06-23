@@ -1,0 +1,25 @@
+{
+  "name": "commandline",
+  "version": "1.0.0",
+  "description": "Create a command-line application in JavaScript that presents users with a menu of options. The user interacts by entering a number corresponding to an action. The application continues running until the user chooses to exit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goitut/commandline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/goitut/commandline/issues"
+  },
+  "homepage": "https://github.com/goitut/commandline#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10",
+    "prompt-sync": "^4.2.0"
+  }
+}
